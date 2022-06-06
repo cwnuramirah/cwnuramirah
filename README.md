@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="https://tenor.com/view/workworkwork-typingcat-gif-19567259.gif" alt="hardworking cat slamming on keyboard"/>
 
-### An avid developer, a perfectionist designer
+### An enthusiastic developer, a perfectionist designer
 - 🔭 I’m currently working on personal project :)
 - 🌱 I’m currently learning web development
 - 🤔 I’m looking for help with career growth
