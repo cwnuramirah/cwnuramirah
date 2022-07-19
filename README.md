@@ -1,4 +1,4 @@
-## Hi there, Chémi here 👋👩🏻‍💻
+## Hi there, Wan here 👋👩🏻‍💻
 
 <img align="right" width="300" src="https://tenor.com/view/workworkwork-typingcat-gif-19567259.gif" alt="hardworking cat slamming on keyboard"/>
 
